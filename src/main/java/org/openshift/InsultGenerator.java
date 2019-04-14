@@ -11,7 +11,6 @@ public class InsultGenerator {
         String vowels = "AEIOU";
         String article = "an";
         String theInsult = "";
-        String hostanme = "postgresql";
         String port = ":5432";
         String driverJDBC = "org.postgresql.Driver";
         Connection connection = null;
