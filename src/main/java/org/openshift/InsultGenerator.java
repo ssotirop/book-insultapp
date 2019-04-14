@@ -54,3 +54,4 @@ public class InsultGenerator {
 
         return theInsult;
     }
+}
